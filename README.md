@@ -62,3 +62,13 @@ OpenAI GPT-4 API for sentiment analysis and summarization
 Pandas for data handling
 
 OpenPyXL for Excel export
+
+
+**License**
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+📧 **Contact**
+
+For inquiries or collaborations, please reach out at:
+📧 fisayo.ade2014@gmail.com
